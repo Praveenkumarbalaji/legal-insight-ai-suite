@@ -1,0 +1,12 @@
+pandas
+requests
+fastapi
+uvicorn
+pydantic
+scikit-learn
+jinja2
+matplotlib
+plotly
+streamlit
+sentence-transformers
+pytest
